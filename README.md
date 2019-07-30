@@ -6,6 +6,17 @@ level:  300
 client: Xamarin 
 service: Microsoft Graph 
 endpoint: Microsoft identity platform
+page_type: sample
+languages:
+  - csharp  
+products:
+  - azure
+  - azure-active-directory  
+  - dotnet
+  - office-ms-graph
+  - xamarin
+  - vs
+description: "This sample shows a Xamarin Forms app that uses MSAL.NET to authenticate users, get an access token, and access Microsoft Graph."
 ---
 # Integrate Microsoft identity and the Microsoft Graph into a Xamarin forms app using MSAL
 
